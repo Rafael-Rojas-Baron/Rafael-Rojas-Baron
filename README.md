@@ -1,5 +1,5 @@
 <p align="center">
-<img width="2064" height="512" alt="perfil" src="https://github.com/user-attachments/assets/c2247831-bd4b-4168-8b87-8ba0fd3580ca" />
+<img width="2064" height="432" alt="perfil" src="https://github.com/user-attachments/assets/4ee3d1b8-47c3-4a5f-b9bd-b8935d976112" />
 </p>
 
 # ¡Hola! Soy Rafael Antonio Rojas Baron 👋
