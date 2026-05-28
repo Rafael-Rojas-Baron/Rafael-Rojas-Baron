@@ -46,4 +46,4 @@ Backend Developer Engineer especializado en el diseño de arquitecturas eficient
 
 ## 🤝 ¡Conectemos!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-antonio-rojas-baron/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafaelrojasbaron/)
