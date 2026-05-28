@@ -39,11 +39,10 @@ Backend Developer Engineer especializado en el diseño de arquitecturas eficient
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Rojas-Baron&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas Generales de Rafael" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Rojas-Baron&theme=tokyonight" alt="Racha de Contribuciones de Rafael" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Rojas-Baron&theme=tokyonight" alt="Racha de Contribuciones de Rafael" width="80%" />
 </p>
 
 ---
