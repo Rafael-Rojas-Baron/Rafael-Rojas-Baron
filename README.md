@@ -46,8 +46,6 @@ Backend Developer Engineer especializado en el diseño de arquitecturas eficient
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Rojas-Baron&layout=compact&theme=tokyonight" width="48%" alt="Lenguajes más usados" />
 </p>
 
-> 💡 *Nota: Si las tarjetas de estadísticas tardan unos minutos en aparecer o muestran un cuadro de carga, no te preocupes; es el sistema de caché de GitHub reconociendo tu nuevo perfil público.*
-
 ---
 
 ## 🤝 ¡Conectemos!
