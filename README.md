@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Rafael Antonio Rojas Baron - Banner" width="100%">
+  ![tu_banner](https://github.com/user-attachments/assets/(https://canva.link/rhmuo8msemo0yv4))
 </p>
 
 # ¡Hola! Soy Rafael Antonio Rojas Baron 👋
