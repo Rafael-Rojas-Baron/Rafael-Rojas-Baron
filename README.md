@@ -10,7 +10,7 @@ Backend Developer Engineer especializado en el diseño de arquitecturas eficient
 
 ## 🚀 Sobre Mí
 
-- 🛠️ Actualmente me desempeño como **Backend Developer Engineer** en **Green Móvil**, enfocado en la arquitectura lógica y optimización de flujos de datos.
+- 🛠️ Actualmente me desempeño como **full stack product engineer** en **Green Móvil**, enfocado en la arquitectura lógica y optimización de flujos de datos.
 - 🎓 Formación académica vinculada a la **Universidad Nacional Abierta y a Distancia (UNAD Colombia)**.
 - ⚡ Apasionado por resolver problemas complejos de rendimiento, automatización de procesos mediante servicios serverless y modelado de datos robustos.
 
