@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Rafael Antonio Rojas Baron - Banner" width="100%">
+</p>
+
 # ¡Hola! Soy Rafael Antonio Rojas Baron 👋
 
 Backend Developer Engineer especializado en el diseño de arquitecturas eficientes, optimización de infraestructura en la nube y gestión avanzada de bases de datos.
@@ -38,9 +42,11 @@ Backend Developer Engineer especializado en el diseño de arquitecturas eficient
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Rojas-Baron&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Rafael" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Rojas-Baron&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Rojas-Baron&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Estadísticas de Rafael" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Rojas-Baron&layout=compact&theme=tokyonight" width="48%" alt="Lenguajes más usados" />
 </p>
+
+> 💡 *Nota: Si las tarjetas de estadísticas tardan unos minutos en aparecer o muestran un cuadro de carga, no te preocupes; es el sistema de caché de GitHub reconociendo tu nuevo perfil público.*
 
 ---
 
