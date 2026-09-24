@@ -1,52 +1,79 @@
 <p align="center">
-<img width="2064" height="432" alt="perfil" src="https://github.com/user-attachments/assets/4ee3d1b8-47c3-4a5f-b9bd-b8935d976112" />
+  <img width="100%" alt="Rafael Rojas Barón · Backend Engineer | Cloud & Data Architect" src="https://github.com/user-attachments/assets/4ee3d1b8-47c3-4a5f-b9bd-b8935d976112" />
 </p>
 
-# ¡Hola! Soy Rafael Antonio Rojas Baron 👋
-
-Backend Developer Engineer especializado en el diseño de arquitecturas eficientes, optimización de infraestructura en la nube y gestión avanzada de bases de datos.
-
----
-
-## 🚀 Sobre Mí
-
-- 🛠️ Actualmente me desempeño como **full stack product engineer** en **Green Móvil**, enfocado en la arquitectura lógica y optimización de flujos de datos.
-- 🎓 Formación académica vinculada a la **Universidad Nacional Abierta y a Distancia (UNAD Colombia)**.
-- ⚡ Apasionado por resolver problemas complejos de rendimiento, automatización de procesos mediante servicios serverless y modelado de datos robustos.
-
----
-
-## 🧰 Tecnologías y Herramientas
-
-### 💻 Backend & Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🗄️ Bases de Datos & BI
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
-## 📊 Mi Actividad en GitHub
+<h1 align="center">¡Hola! Soy Rafael Antonio Rojas Barón 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Rojas-Baron&theme=tokyonight" alt="Racha de Contribuciones de Rafael" width="80%" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Full+Stack+Product+Engineer+%40+Green+M%C3%B3vil;Backend+%C2%B7+AWS+Serverless+%C2%B7+Arquitectura+de+datos;Del+dato+crudo+a+la+decisi%C3%B3n+de+negocio" alt="Full Stack Product Engineer @ Green Móvil · Backend · AWS Serverless · Arquitectura de datos" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafaelrojasbaron/"><img src="https://img.shields.io/badge/LinkedIn-Rafael_Rojas_Bar%C3%B3n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Rafael-Rojas-Baron"><img src="https://img.shields.io/badge/GitHub-Rafael--Rojas--Baron-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+## 🧭 Sobre mí
+
+- 🛠️ **Full Stack Product Engineer en Green Móvil**: diseño la arquitectura lógica y optimizo los flujos de datos que mueven la movilidad eléctrica.
+- ☁️ Especialista en **AWS serverless**: Lambda, DynamoDB, Glue, S3 y API Gateway. Menos servidores, más resultados.
+- 🗄️ Modelado de datos robusto en **PostgreSQL, MySQL y MongoDB**, con analítica en **Power BI y Tableau**.
+- 🎓 Formación académica en la **Universidad Nacional Abierta y a Distancia (UNAD Colombia)**.
+- ⚡ Me obsesionan el rendimiento, la automatización y los sistemas que se explican solos.
+
+---
+
+## 🚀 Lo que construyo
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>⚡ Telemetría en tiempo real</h3>
+      <p>Ingesta y procesamiento de datos de vehículos eléctricos a escala, sobre AWS.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>☁️ Arquitectura serverless</h3>
+      <p>Lambda + DynamoDB + Glue + S3/Parquet. Infraestructura que escala sola y cuesta lo justo.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>📊 Datos para decidir</h3>
+      <p>Modelos analíticos y dashboards que convierten datos crudos en decisiones de negocio.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Stack
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,nodejs,fastapi,django,postgres,mysql,mongodb,dynamodb,aws,docker,linux,supabase,vercel,git,github,html,css&perline=9" alt="Python, JavaScript, Node.js, FastAPI, Django, PostgreSQL, MySQL, MongoDB, DynamoDB, AWS, Docker, Linux, Supabase, Vercel, Git, GitHub, HTML, CSS" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+</p>
+
+---
+
+## 📊 Actividad
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Rojas-Baron&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de Rafael" width="80%" />
 </p>
 
 ---
 
 ## 🤝 ¡Conectemos!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafaelrojasbaron/)
+<p align="center">
+  Si trabajas con datos, nube o movilidad eléctrica, hablemos.<br/><br/>
+  <a href="https://www.linkedin.com/in/rafaelrojasbaron/"><img src="https://img.shields.io/badge/Escr%C3%ADbeme_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Escríbeme en LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=120&section=footer" alt="" />
+</p>
