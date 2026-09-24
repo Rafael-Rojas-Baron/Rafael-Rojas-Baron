@@ -59,14 +59,6 @@
 
 ---
 
-## 📊 Actividad
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Rojas-Baron&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de Rafael" width="80%" />
-</p>
-
----
-
 ## 🤝 ¡Conectemos!
 
 <p align="center">
